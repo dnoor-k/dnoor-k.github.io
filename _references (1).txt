@@ -1,0 +1,62 @@
+﻿@article{Firmansyah_Overlap_Gap_2023,
+  author = {Firmansyah, Achm},
+  title = {{An approach for checking overlaps and gaps in polygons using GeoPandas}},
+  journal = {Medium},
+  year = {2023},
+  month = {10},
+  url = {https://medium.com/@achm.firmansyah/an-approach-for-checking-overlaps-and-gaps-in-polygons-using-geopandas-ebd6606e7f70}
+}
+
+
+@software{Poly_Validator_2023,
+  author = {{Poly Validator Contributors}},
+  title = {{poly-validator: Python library for polygon validation}},
+  year = {2023},
+  publisher = {PyPI},
+  url = {https://pypi.org/project/poly-validator/},
+  version = {0.1.0}
+}
+
+
+@software{Ezekiel_Data_Quality_2023,
+  author = {Ezekiel, David-Ikenna},
+  title = {{Data Quality Toolkit}},
+  year = {2023},
+  publisher = {GitHub},
+  url = {https://github.com/david-ikenna-ezekiel/data-quality-toolkit}
+}
+
+
+@software{Billy_Geospatial_Validation_2023,
+  author = {Billy, Z},
+  title = {{Geospatial-Data-Validation-Tool}},
+  year = {2023},
+  publisher = {GitHub},
+  url = {https://github.com/billyz313/Geospatial-Data-Validation-Tool}
+}
+
+
+@manual{ArcGIS_Data_Pipelines_2023,
+  author = {{Esri}},
+  title = {{ArcGIS Data Pipelines Tool Overview}},
+  year = {2023},
+  organization = {Environmental Systems Research Institute},
+  url = {https://doc.arcgis.com/en/data-pipelines/latest/process/tool-overview.htm}
+}
+
+
+@online{GIS_Stack_Exchange_2023,
+  author = {{GIS Stack Exchange Community}},
+  title = {{How to write to GeoPandas DataFrame directly to Google Cloud Storage}},
+  year = {2023},
+  url = {https://gis.stackexchange.com/questions/364013/how-to-write-to-geopandas-dataframe-directly-to-google-cloud-storage}
+}
+
+
+@article{Apify_Data_Cleaning_2023,
+  author = {{Apify Team}},
+  title = {{Data Cleaning in Python: A Practical Guide}},
+  journal = {Apify Blog},
+  year = {2023},
+  url = {https://blog.apify.com/data-cleaning-python/}
+}

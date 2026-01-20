@@ -7,3 +7,4 @@ git add topology_issues_map.html
 git commit -m "Add topology issues visualization map"
 
 git push origin main
+https://dnoor-k.github.io/topology_issues_map_top9500.html

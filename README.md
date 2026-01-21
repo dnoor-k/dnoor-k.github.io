@@ -3,7 +3,7 @@
 <img width="2560" height="1316" alt="image" src="https://github.com/user-attachments/assets/d8a4bcef-0e08-4478-a019-a89f7d38b9ad" />
 
 ## Overview
-Geospatial QA Validation Pipeline that utilizes Philadelphia Stormwater Billing parcel data, and validates both tabular and geospatial data for structural integrity, data quality checks, schema validation, and topology validation. Also generates a visualization of topology related errors (overlaps, slivers, intersections), and generates data quality reports to help decide a recommended course of action if issues are severe enough.
+Geospatial QA Validation Pipeline that utilizes Philadelphia Stormwater Billing parcel data, and validates both tabular and geospatial data for structural integrity, data quality checks, schema validation, and topology validation. Also generates a visualization of topology related errors (overlaps, slivers, intersections), and generates data quality reports to help decide a recommended course of action.
 
 ---
 

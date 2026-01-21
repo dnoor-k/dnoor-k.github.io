@@ -1,7 +1,10 @@
-#INSTRUCTIONS FOR VIEWING INTERACTIVE WEB MAP
-#CLICK "Raw/Download Raw File" IN topology_issues_map (2).html.zip
-#UNZIP FILE
-#CLICK ON HTML FILE
-#WEB BASED MAP VIEWER SHOULD LOAD
+Viewing the Interactive Topology Issues Map
 
+Download the file: topology_issues_map.html.zip
+(Click “Download raw file” on GitHub)
 
+Unzip the file locally.
+
+Open topology_issues_map.html in any modern web browser (Chrome, Firefox, Edge).
+
+The interactive web map will load automatically. No additional software or credentials required.

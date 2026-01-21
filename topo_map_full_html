@@ -2,7 +2,7 @@
 #1. download txt
 #2. make sure to open in file directory
 #3. double click on file to rename
-#4. change file extension to html. a pop up will appear asking if you want to change it . click YES.
+#4. change file extension to html. a pop up will appear asking if you want to change it . click "use html".
 #5. drag and drop html into browser. might take a second to load
 
 <!DOCTYPE html>

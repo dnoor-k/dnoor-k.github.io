@@ -129,14 +129,17 @@ python topo_error_map.py
 
 ## Function Index/Reference
 
-| Function | Parameters | Returns | Purpose |
-|----------|------------|---------|---------|
-| `check_geometries(gdf)` | `gdf`: GeoDataFrame | DataFrame | Checks for null, empty, and invalid geometries |
-| `check_polygon_topology(gdf, sample_size, sample_every)` | `gdf`: GeoDataFrame<br>`sample_interval`: int<br>`max_parcels`: int | DataFrame | Detects overlaps, slivers, and intersections between polygons |
-| `check_polygon_topology_fast(gdf, sample_interval, max_parcels)` | `gdf`: GeoDataFrame<br>`sample_interval`: int (default=1)<br>`max_parcels`: int or None | DataFrame | Optimized topology check using spatial index for large datasets |
-| `generate_qa_summary(gdf, geo_report, topo_report, pos_check)` | `gdf`: GeoDataFrame<br>`geometry_report`: DataFrame<br>`topology_report`: DataFrame<br>`positional_check`: dict | Tuple (summary_df, flags_df, status_str) | Generates QA summary with severity flags and recommendations |
-| `visualize_issues(gdf, geometry_report, topology_report)` | `gdf`: GeoDataFrame<br>`geometry_report`: DataFrame<br>`topology_report`: DataFrame | folium.Map | Creates interactive map showing invalid geometries and topology issues |
-| `visualize_topology_issues(gdf, topology_report)` | `gdf`: GeoDataFrame<br>`topology_report`: DataFrame | folium.Map or None | Creates detailed Folium map of all topology issues with color-coded types |
+|## Core Functions
+
+| Function | Purpose |
+|---------|---------|
+| `check_geometries()` | Flags null, empty, and invalid geometries |
+| `check_polygon_topology()` | Identifies overlaps, slivers, and intersections |
+| `check_polygon_topology_fast()` | Scaled topology checks for large datasets |
+| `generate_qa_summary()` | Compiles results, assigns severity, outputs pass/fail |
+| `visualize_issues()` | Interactive map of geometry and topology issues |
+| `visualize_topology_issues()` | Detailed map of topology errors only |
+
 
 ---
 
